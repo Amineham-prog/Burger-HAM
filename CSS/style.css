@@ -1,0 +1,42 @@
+/*
+* { border: 1px red dotted; }
+*/
+body{
+   
+background-image: url("../img/bg-body.png");
+padding: 60px 0px 0px 0px;
+    z-index:0;
+
+}
+.row-content {
+    margin: 0px auto;
+    padding: 15px 0px 15px 0px;
+    border-bottom: 1px ridge #28a745 ;
+    min-height: 400px; 
+}
+.navbar-dark {
+    background-color:#241b18;
+    color: #ffc947;
+    padding:10px;
+}
+
+.nav-link,.navbar-brand {
+    color: #ffc947 !important;
+}
+.nav-link:hover{
+    color: #28a745 !important;
+}
+.navbar-dark .fa-bars{
+    color:#ffc947;
+
+}
+
+.navbar-dark .navbar-collapse{
+    margin:0px  0px 0px 0px;
+}
+.btn-sign-in{
+  background-color: aquamarine;  
+}
+.carousel {
+    background: #241b18;
+}
