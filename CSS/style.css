@@ -68,5 +68,10 @@ padding: 60px 0px 0px 0px;
 
 .card-title{
     font-size:20px;
-    color: #fff;
+    color: #ffc947;
+    text-shadow: 1px 1px #28a745
 }
+
+.card-text{
+    color:#ffffff;
+} 
