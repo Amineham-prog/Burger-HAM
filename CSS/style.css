@@ -38,6 +38,8 @@ padding: 60px 0px 0px 0px;
 }
 .carousel {
     background: #241b18;
+    margin: 0px auto;
+    border: 1px solid #ffffff; 
 }
 
 .mycard{
